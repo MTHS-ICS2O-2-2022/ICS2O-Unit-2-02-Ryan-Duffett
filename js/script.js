@@ -5,7 +5,7 @@
 // This file contains the JS functions for index.html
 
 /**
- * Do basic math.
+ * Calculate Area
  */
 function doMathClicked() {
   document.getElementById("area").innerHTML = "<p>Area = " + (5 * 3) + "cm² </p>"
